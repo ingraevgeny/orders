@@ -6,7 +6,7 @@
         <groupId>com.evg.orders</groupId>
         <artifactId>orders</artifactId>
         <version>1.0.2</version>
-        <relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>helm-orders</artifactId>
 
